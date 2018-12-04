@@ -60,8 +60,7 @@ The focuses on software development needs:
 The software systems needs to be operated and maintained with expertise in computer systems and clusters.
 DevOps, as vital part to system availability, tend to propose requirements from system levels:
 
-- Observability: The ability to observe systems as black box, from outside. The relevant technologies include metrics, logging, instrumentation, tracing and dumping.
+- Observability: The ability to observe systems as black box, from outside. The relevant technologies include *metrics, logging, instrumentation, tracing and dumping*.
 - Deployment Consistency: Keep it Simple and Stupid for deployment technologies, maintaining single stack of deployment stack is easier and less error-prone.
 - Efficiency: Automation is the way to crystalize knowledge and corner stone for operation efficiency.
-- Potential to prompt reaction: systems should be built with failsafes. Online feature switch is a good candidate for `the big red button` in emergencies.
-
+- Potential to prompt reaction: systems should be built with failsafes. *Online feature switch* is a good candidate for `the big red button` in emergencies.
